@@ -1,0 +1,57 @@
+THE TINY PUMPKIN STORY
+
+QUICK START
+Open index.html or Tiny-Pumpkin-Mystery.html. All story scripts, illustrations and report tools are included, so the story works offline. Use Tiny-Pumpkin-Deployment.zip for hosting; index.html is at its root.
+Choose a reading level and one of the 20 Halloween objects in the Class ID dropdown. Use a different object for each saved student attempt in the same browser and level.
+
+READING LEVELS
+Every level has eight illustrated story pages and seven Halloween maths breaks between them. The maths is the same at every reading level and is designed for Grades 2 and 3.
+Pre-A: early readers; 2 houses, 2 story blanks per page, 16 comprehension marks and 16 word marks.
+A: Grades 1-2; 4 houses, four child-friendly sentences and 3 story blanks per page, 24 comprehension marks and 24 word marks.
+AA: Grades 3-4; 8 houses, 4 story blanks per page, 40 comprehension marks and 32 word marks.
+AAA: Grades 5-6; 10 houses, 5 story blanks per page, 40 comprehension marks and 40 word marks.
+Each level adds 21 maths marks. Combined maximums are Pre-A 53, A 69, AA 93 and AAA 101.
+All original reading question and matching activities are kept. Wording has been checked and updated so every item is supported by its current story page. New story pages add a lantern workshop and a walk along the lantern path. The ending explicitly describes the friends finding the tiny pumpkin keychain.
+
+STUDENT CONTROLS
+Drag a word from the bank into a numbered blank. Students can also tap a word, then a blank, or use the keyboard. Tap a filled blank to return its word. Dropping a word on a filled blank swaps the words. Words already placed stay active in the word bank, so students can drag them again, even when their earlier blank is in another reading part.
+A and Pre-A show their complete story text and every blank together. Laptop and tablet layouts show the full AA/AAA passage. On narrow phones, AA/AAA use complete multi-sentence text panels on the SAME story page, with ALL four or five answer pads always visible. Story, Questions and Picture tools keep the larger text on one screen. Students can revisit these parts until they lock that page. Earlier locked pages cannot be reopened.
+Beginning consonant blends are highlighted in the Level A story and question text. Its four sentences have generous paragraph spacing. Reading answer choices are draggable too. Drag a choice to its pad, or tap the choice and then the pad. Filled answers can be dragged again, swapped between matching pads, or returned to their answer bank. The Question and Matching tabs stay within the CURRENT story page. Matching facts appear on the current story page. Story text is visible beside the questions on larger screens. Read this page opens the current text on smaller screens. The text uses the student’s filled words and leaves empty blanks empty. No earlier locked page can be opened.
+Lock & continue opens a confirmation. Unanswered items receive zero after confirmation. The next page is a maths break, followed by the next story. There is no countdown timer and no correctness feedback before the teacher opens the results.
+
+HALLOWEEN MATHS
+Seven breaks contain three illustrated questions each. Topics include repeating patterns, growing and shrinking number patterns, counting by 2s, 3s and 10s, groups and arrays, tens and ones, comparing numbers, addition, subtraction, missing parts, even numbers and Canadian coins.
+Drag each maths choice into its dashed answer box. A pattern or number gap is itself a drop area. Students can also tap a choice, then its answer box. On a laptop the three questions appear together. On narrower screens use Question 1, 2 and 3 tabs. All answers stay available until that maths page is locked. Drop areas accept changes and do not show correctness before teacher access.
+
+READ-ALOUD
+Voice is OFF by default at every level. Select the locked Voice button, enter teacher code 259, and choose Enable voice or Disable voice. Enabling adds Play and Stop controls for the story and questions, with Slow (0.7x), Steady (0.85x), Normal (1x) and Fast (1.2x) speeds. The story voice says blank numbers and can read the word bank. It does not supply an empty blank's answer. Questions, choices and maths picture descriptions are read aloud. Changing pages stops the voice. Voice turns off again after reopening or resetting the activity for another student. An English device voice and Web Speech support are needed.
+
+MAP AND PICTURES
+All original story illustrations are reused. Each story page has its own associated illustration. Maths uses new code-drawn pumpkins, ghosts, bats, owls, spiders and other Halloween objects.
+The map labels East and West and shows all 2, 4, 8 or 10 houses for the level. Collected clues remain available. Houses are not automatically eliminated. The story follows the friends to the discovery, rather than asking the student to guess a house.
+The separate Student Maps folder contains the previously requested black-and-white printable maps for all four levels.
+
+TEACHER HANDOFF AND PARENT REPORT
+After the final lock students see: Please call your teacher.
+Select Teacher access and enter 259. The teacher can:
+- View the parent report and print or save it as PDF.
+- Download a ZIP of 16 PNG report pages.
+- Download the full illustrated Excel results, CSV or JSON backup.
+- Clear the completed attempt for the next student.
+The report contains a summary followed by each of the eight story pages and seven maths breaks in student order. It shows the full completed story, story picture, word bank, each question and all options, student choices, expected answers and marks. The summary separates story words, comprehension and maths scores.
+Excel has eleven sheets: Summary, Page 1 through Page 8, Responses and Activity log. Each story sheet includes its text, picture, questions, cloze choices and the following maths break. Maths picture descriptions accompany the maths questions. CSV lists comprehension rows first, then cloze words, then maths questions.
+Reports stay on the device until the teacher downloads or prints them. The old six-section teacher workbook and example are not included in the updated classroom ZIP; use the activity's current Excel export for the expanded assessment.
+
+RESET AND SAVING
+Reset on the opening screen clears the selected object and level's saved attempt. After teacher access, Clear for next student opens a confirmation, clears answers and locks for that attempt, and returns to the beginning with an empty Class ID dropdown.
+Progress normally uses browser storage. If it is blocked, tab storage or temporary memory keeps Begin and Lock & continue usable. When temporary progress is indicated, keep the tab open until the teacher saves the results.
+
+EXTRA ACTIVITIES
+The optional link opens 40 Grade 2/3 activities and four bonuses: a second maze, word search, dot-to-dot and monster design. The practice library saves separately. Its worksheet PDF downloads have been removed. The teacher’s Print report and PNG tools remain available after code 259. PDF download links are removed.
+
+CODE AND ARTWORK
+The shared reading engine, timing, local storage, scoring and Excel template reuse earlier activities. Offline PDF creation reuses the Math Landing writer. The original six-panel story and ten-house illustration sheets are reused throughout. Maths illustrations are drawn with SVG code.
+This is original fiction on a fictional block in Toronto's High Park neighbourhood.
+
+CHROMEBOOK USE
+Open Tiny-Pumpkin-Full-Story-Pages.html or index.html in Google Chrome. The core story includes its pictures and scripts in one file. For the optional worksheet library, keep the extracted deployment ZIP folders together. Full-page layouts were checked at 1366 x 768, 1280 x 720 and a smaller 1024 x 600 viewport, including teacher-enabled voice. Every A page has four complete sentences, 55-63 words and three blanks. Every AA/AAA page retains all four/five answer pads, including narrow-screen reading views.

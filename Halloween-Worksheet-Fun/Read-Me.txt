@@ -1,0 +1,29 @@
+HALLOWEEN EXPLORERS - GRADES 2 AND 3
+
+Open index.html to choose from all 40 requested activities and 4 bonus sheets.
+Choose Grade 2 or Grade 3. Every worksheet has fresh original content.
+Use Type to fill answer boxes. Use Draw to solve mazes, circle pictures and sketch.
+Use Undo for the last stroke, or Clear sheet to reset the current grade and activity.
+Answers and drawings save locally in this browser. They are practice worksheets,
+not part of the forward-only Pumpkin Mystery assessment.
+Whole sheet / Top half / Bottom half keeps one worksheet on one screen.
+Print this sheet prints the complete current worksheet, including typed responses
+and drawings, on one Letter page. Activities are available on screen.
+The original Pumpkin Mystery remains the main start page.
+
+All illustrations are original black-and-white vectors with white backgrounds.
+Use Letter portrait when printing the current activity from the browser.
+Word searches use across/down only. Grade 2 mazes use 10 x 10 cells; Grade 3
+mazes use 14 x 14 cells. Each maze has exactly one route from start to finish.
+The 4 bonuses are a second maze, word search, ghost dot-to-dot and monster design.
+
+Open writing, odd-one-out and drawing tasks accept varied well-supported answers.
+Canadian money tasks use coin values in cents, with no pennies.
+The activity list describes the offered differentiation, not curriculum certification.
+
+REUSE AND SOURCE
+The story-map house and creature drawing approach is adapted into shared vector
+operations. One content set generates both grade versions. This avoids
+extra illustration generation and keeps print and screen prompts aligned.
+The existing Pumpkin Mystery stories, scoring and student responses are unchanged.
+worksheet-data.json contains all new content and teacher answer references.
